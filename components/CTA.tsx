@@ -127,19 +127,7 @@ export default function CTA() {
               viewport={{ once: true }}
               className="mt-12 pt-8 border-t border-neon-blue/20"
             >
-              <p className="text-gray-400 text-sm mb-4">Trusted by streamers worldwide</p>
-              <div className="flex flex-wrap justify-center items-center gap-8 opacity-60">
-                <div className="text-2xl font-bold text-neon-blue">10,000+</div>
-                <div className="w-px h-8 bg-gray-600"></div>
-                <div className="text-2xl font-bold text-neon-pink">$2.5M+</div>
-                <div className="w-px h-8 bg-gray-600"></div>
-                <div className="text-2xl font-bold text-neon-green">98%</div>
-                <div className="w-px h-8 bg-gray-600"></div>
-                <div className="text-2xl font-bold text-neon-purple">24/7</div>
-              </div>
-              <p className="text-gray-400 text-xs mt-2">
-                Active Streamers • Volume Traded • Success Rate • Support
-              </p>
+              Active Streamers • Volume Traded • Success Rate • Support
             </motion.div>
           </div>
 

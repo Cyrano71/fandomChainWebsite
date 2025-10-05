@@ -81,18 +81,6 @@ export default function Hero() {
               transition={{ delay: 1, duration: 0.8 }}
               className="grid grid-cols-3 gap-8 mt-12 max-w-md mx-auto lg:mx-0"
             >
-              <div className="text-center">
-                <div className="text-2xl font-bold text-neon-green neon-glow">10K+</div>
-                <div className="text-sm text-gray-400">Active Streamers</div>
-              </div>
-              <div className="text-center">
-                <div className="text-2xl font-bold text-neon-blue neon-glow">$2M+</div>
-                <div className="text-sm text-gray-400">Volume Traded</div>
-              </div>
-              <div className="text-center">
-                <div className="text-2xl font-bold text-neon-pink neon-glow">50K+</div>
-                <div className="text-sm text-gray-400">Community</div>
-              </div>
             </motion.div>
           </motion.div>
 
